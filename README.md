@@ -1,1 +1,1 @@
-# SkyPr
+Print("Hello world")
